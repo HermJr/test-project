@@ -5,6 +5,7 @@
    padding: 0;
    box-sizing: border-box
    font-family: "Space Mono", monospace;
+} 
 
 body {
   background-color: #edf1f1;
@@ -14,7 +15,7 @@ body {
 a {
     color: #1a234d;
     font-size: 20px;
-   font-weight: 300;
+    font-weight: 300;
     text-underline-offset: 4px;
     text-decoration-thickness: 1px;
 }
